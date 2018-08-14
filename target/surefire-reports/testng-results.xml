@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63" started-at="2018-06-13T12:14:00Z" finished-at="2018-06-13T12:14:00Z">
+    <groups>
+    </groups>
+    <test name="Smoke Test" duration-ms="63" started-at="2018-06-13T12:14:00Z" finished-at="2018-06-13T12:14:00Z">
+      <class name="com.appliances.AppiumTest">
+        <test-method status="PASS" signature="firstMethod()[pri:0, instance:com.appliances.AppiumTest@1a57a3b]" name="firstMethod" duration-ms="0" started-at="2018-06-13T12:14:00Z" finished-at="2018-06-13T12:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstMethod -->
+        <test-method status="PASS" signature="thirdMethod()[pri:0, instance:com.appliances.AppiumTest@1a57a3b]" name="thirdMethod" duration-ms="0" started-at="2018-06-13T12:14:00Z" finished-at="2018-06-13T12:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdMethod -->
+        <test-method status="PASS" signature="secondMethod()[pri:0, instance:com.appliances.AppiumTest@1a57a3b]" name="secondMethod" duration-ms="0" started-at="2018-06-13T12:14:00Z" finished-at="2018-06-13T12:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondMethod -->
+      </class> <!-- com.appliances.AppiumTest -->
+      <class name="com.appliances.SeleniumTest">
+        <test-method status="PASS" signature="firstMethod()[pri:0, instance:com.appliances.SeleniumTest@9d9c55]" name="firstMethod" duration-ms="0" started-at="2018-06-13T12:14:00Z" finished-at="2018-06-13T12:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstMethod -->
+        <test-method status="PASS" signature="secondMethod()[pri:0, instance:com.appliances.SeleniumTest@9d9c55]" name="secondMethod" duration-ms="16" started-at="2018-06-13T12:14:00Z" finished-at="2018-06-13T12:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondMethod -->
+        <test-method status="PASS" signature="thirdMethod()[pri:0, instance:com.appliances.SeleniumTest@9d9c55]" name="thirdMethod" duration-ms="0" started-at="2018-06-13T12:14:00Z" finished-at="2018-06-13T12:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdMethod -->
+      </class> <!-- com.appliances.SeleniumTest -->
+    </test> <!-- Smoke Test -->
+  </suite> <!-- Suite -->
+</testng-results>
